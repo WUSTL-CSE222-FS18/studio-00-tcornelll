@@ -65,7 +65,8 @@ This class is about IoT.  [Postscapes](https://www.postscapes.com/internet-of-th
 
 Feature | Explanation
 --------|------------
-Monitoring | Monitor objects or places from your phone (e.g monitor greenhouse temperature)
+Monitoring | Monitor objects or places from your phone (e.g. monitor greenhouse temperature)
+Automated tasks | IoT technology can be used to automate tasks which the consumer has planned (e.g. A smart fridge magnet that automatically orders grocery items given a list)
 
 Search for some additional IoT examples at other sites and find two examples that you find interesting.
 
